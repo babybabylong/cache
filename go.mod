@@ -1,4 +1,4 @@
-module gitlab.com/nova_dubai/cache
+module github.com/babybabylong/cache
 
 go 1.18
 
